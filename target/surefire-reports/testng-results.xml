@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Sellics.SellicsAgencyEditionUITest" duration-ms="32782" started-at="2019-07-11T17:28:51Z" finished-at="2019-07-11T17:29:24Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="32782" started-at="2019-07-11T17:28:51Z" finished-at="2019-07-11T17:29:24Z">
+      <class name="Sellics.SellicsAgencyEditionUITest">
+        <test-method status="PASS" signature="initialize()[pri:0, instance:Sellics.SellicsAgencyEditionUITest@37918c79]" name="initialize" is-config="true" duration-ms="8439" started-at="2019-07-11T17:28:51Z" finished-at="2019-07-11T17:29:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="VerifyCartAddition()[pri:0, instance:Sellics.SellicsAgencyEditionUITest@37918c79]" name="VerifyCartAddition" duration-ms="22012" started-at="2019-07-11T17:29:00Z" finished-at="2019-07-11T17:29:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyCartAddition -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:Sellics.SellicsAgencyEditionUITest@37918c79]" name="teardown" is-config="true" duration-ms="2318" started-at="2019-07-11T17:29:22Z" finished-at="2019-07-11T17:29:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- Sellics.SellicsAgencyEditionUITest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Sellics.SellicsAgencyEditionUITest -->
+</testng-results>
